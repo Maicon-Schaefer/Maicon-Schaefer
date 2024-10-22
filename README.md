@@ -1,4 +1,4 @@
-<h2 color='#561b55' align="center">Olá 👋! Me chamo Maicon ... Sejam bem-vindos ao meu Github</h2>
+<h2 align="center">Olá 👋! Me chamo Maicon ... Sejam bem-vindos ao meu Github</h2>
 
 ###
 
