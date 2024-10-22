@@ -47,6 +47,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Maicon-Schaefer/Maicon-Schaefer/output/snake.svg" alt="Snake animation" />
-
-###
