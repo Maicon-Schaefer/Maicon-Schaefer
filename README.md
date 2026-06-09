@@ -1,5 +1,5 @@
 <h2 align="center">Olá 👋! Sejam bem-vindos ao meu Github.</h2>
-<p align="center"> Me chamo Maicon Schaefer, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou focado em aprender HTML, CSS e JavaScript, e em breve vou iniciar minha jornada com Java, onde planejo me especializar. Sou um estudante de Engenharia de Software na instituição de ensino Anhanguera, estou sempre em busca de novos conhecimentos e desafios no mundo da programação. Estou constantemente explorando novas maneiras de criar soluções inovadoras através da web development 🚀.
+<p align="center"> Me chamo Maicon Schaefer, tenho 21 anos e sou apaixonado por tecnologia. Tenho conhecimento em HTML, CSS, Java Script e Java. Sou um estudante de Engenharia de Software na instituição de ensino Anhanguera, estou sempre em busca de novos conhecimentos e desafios no mundo da programação. Estou constantemente explorando novas maneiras de criar soluções inovadoras através da web development 🚀.
 
 ###
 
